@@ -13,4 +13,4 @@ while True:
             print(message)
         winsound.Beep(500,1500)
     else:
-        continue
+        pass
